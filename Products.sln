@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Products.Api", "Products.Api\Products.Api.csproj", "{12866B5F-72BE-4A8E-AD3D-AF6EB22650B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Products.Persistence", "Products.Persistence\Products.Persistence.csproj", "{97E4DB23-6F07-46B7-90C2-C38DE6E7E421}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12866B5F-72BE-4A8E-AD3D-AF6EB22650B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12866B5F-72BE-4A8E-AD3D-AF6EB22650B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12866B5F-72BE-4A8E-AD3D-AF6EB22650B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12866B5F-72BE-4A8E-AD3D-AF6EB22650B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97E4DB23-6F07-46B7-90C2-C38DE6E7E421}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97E4DB23-6F07-46B7-90C2-C38DE6E7E421}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97E4DB23-6F07-46B7-90C2-C38DE6E7E421}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97E4DB23-6F07-46B7-90C2-C38DE6E7E421}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
